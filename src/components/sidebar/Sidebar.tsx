@@ -1,9 +1,9 @@
 import styles from "./Sidebar.module.css"
 function Sidebar() {
     return (
-        <footer className={styles.sideBar}>
-            <h2>alfredo fredito fredo fredito</h2>
-        </footer>
+        <div className={styles.sideBar}>
+            <h2>leo lelito lelon</h2>
+        </div>
     );
 }
 
