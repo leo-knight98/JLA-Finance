@@ -1,3 +1,5 @@
 .sideBar {
     background-color: hotpink;
+    min-height: 100vh;
+    width: 20%;
 }

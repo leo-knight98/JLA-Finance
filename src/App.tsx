@@ -7,10 +7,11 @@ function App() {
 
   return (
     <>
-
-      <Header />
-      <Balance />
       <Sidebar />
+      <div>
+        <Header />
+        <Balance />
+      </div>
 
     </>
   )
